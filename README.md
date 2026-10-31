@@ -4,15 +4,6 @@ This repository contains the training and evaluation code for the paper
 "Tree-structured command sequences for parametric CAD reconstruction and
 controlled generation".
 
-The workflow starts from
-MCL-lite JSON trees and covers data augmentation, vectorization, autoencoder
-training, latent encoding, diffusion training, operation-presence guidance,
-sampling, decoding and numerical evaluation.
-
-The package does not contain datasets, checkpoints, logs or generated models.
-The converter from the original commercial CAD format to MCL-lite JSON is not
-part of this repository.
-
 The repository metadata is stored at the root. The runnable code package is in
 `pcmracgbotcs/`.
 
