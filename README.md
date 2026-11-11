@@ -1,4 +1,3 @@
-# Tree-structured CAD reconstruction and controlled generation
 
 This repository contains the training and evaluation code for the paper
 "Tree-structured command sequences for parametric CAD reconstruction and
